@@ -1,0 +1,28 @@
+# Topology used in the work "DeepRMSA: A Deep Reinforcement Learning Framework for Routing, Modulation and Spectrum Assignment in Elastic Optical Networks", DOI: 10.1109/jlt.2019.2923615
+11
+25
+0 1 525				
+0 5 563		
+0 6 213		
+0 7 725		
+1 2 325		
+1 4 800		
+1 6 475		
+1 7 225		
+2 3 875		
+2 7 275		
+2 8 300		
+3 4 325		
+3 8 575		
+3 10 600		
+4 5 475		
+4 8 525		
+4 10 263		
+5 6 475		
+5 10 225		
+6 9 325		
+6 10 400		
+7 8 175		
+7 9 163		
+8 9 288		
+9 10 525		
